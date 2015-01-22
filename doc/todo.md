@@ -5,7 +5,8 @@
 - guava
 - velocity 
 - jquery
-- oracle, mysql
+- oracle, mysql ... db 설치해야 되서 별로임
+- [tiny webdb](http://appinventor.mit.edu/explore/ai2/custom-tinywebdb.html)
 - mybatis
 
 #### build tool
