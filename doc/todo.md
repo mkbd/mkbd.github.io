@@ -16,7 +16,7 @@
 - bitbucket
 
 #### 모바일
-app inventor
+- app inventor
 - google play store  계정생성 3만원
 - parse.com
 - telegram build https://github.com/DrKLO/Telegram
