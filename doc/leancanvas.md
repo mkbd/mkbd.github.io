@@ -1,7 +1,7 @@
 
 
 ## 린캠버스
--  <table style="width:100%">
+<table style="width:100%">
   <tr>
     <td rowspan=2>Problem(문제)</td>
     <td>Solution(솔루션)</td>
@@ -18,10 +18,10 @@
     <td colspan=3>Revenue Streams(수익)</td>
   </tr>
 </table>
-- [leancanvas 예시](https://custdevlabs.files.wordpress.com/2012/06/canvas.png)
+[leancanvas 예시](https://custdevlabs.files.wordpress.com/2012/06/canvas.png)
 
 ## 린캠버스-스터디앱
-- <table style="width:100%">
+<table style="width:100%">
   <tr>
     <td rowspan=2>Problem(문제) <br>스터디정보 부족</td>
     <td>Solution(솔루션) <br>스터디매칭, 정보제공</td>
