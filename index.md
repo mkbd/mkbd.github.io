@@ -8,6 +8,7 @@
 
 ### 최신글
 - [sitemap](doc/sitemap.md)
+- [leancanvas](doc/leancanvas.md)
 - [idea](doc/idea.md)
 - [소개슬라이드](http://mkbd.github.io/slide/mkbd)
 
