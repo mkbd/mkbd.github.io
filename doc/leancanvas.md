@@ -1,4 +1,4 @@
-  린캠버스
+
 <table style="width:100%">
   <tr>
     <td rowspan=2>Problem(문제)</td>
@@ -16,9 +16,10 @@
     <td colspan=3>Revenue Streams(수익)</td>
   </tr>
 </table>
+###  린캠버스
+
 [leancanvas 예시](https://custdevlabs.files.wordpress.com/2012/06/canvas.png)
 
-  린캠버스-스터디앱.
 <table style="width:100%">
   <tr>
     <td rowspan=2>Problem(문제) <br>스터디정보 부족</td>
@@ -36,6 +37,8 @@
     <td colspan=3>Revenue Streams(수익)<br>앱배너광고수익</td>
   </tr>
 </table>
+### 린캠버스-스터디앱..
+
 
 <style>
 table, th, td {
