@@ -1,4 +1,4 @@
-![대문](http://hdw.eweb4.com/wallpapers/2492/#)
+![대문](/doc/img/dkbd_logo.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](https://www.facebook.com/groups/679419948759796)
 
