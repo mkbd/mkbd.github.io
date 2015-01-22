@@ -1,4 +1,4 @@
-## 개발테크트리
+## 개발 todo
 
 #### 웹서비스
 - 스프링예제 실행 http://spring.io/guides/tutorials/bookmarks/
@@ -31,7 +31,7 @@ app inventor
 -  basic tutorial
 - 웹서비스 django, flask
 
-## 기획
+## 기획 todo
 - 준협군이 해야 하는거
 - 웹슬라이드 사용. http://mkbd.github.io/slide/mkbd
 - lean canvas 작성. 참고 http://origilalala.tistory.com/529
