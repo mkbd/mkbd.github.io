@@ -9,17 +9,17 @@
 - mybatis
 
 #### build tool
- -- maven 
- -- gradle
+- maven
+- gradle
 - 저장소 
--- github, github page
--- bitbucket
+- github, github page
+- bitbucket
 
 #### 모바일
 app inventor
-google play store  계정생성 3만원
-parse.com
-telegram build https://github.com/DrKLO/Telegram
+- google play store  계정생성 3만원
+- parse.com
+- telegram build https://github.com/DrKLO/Telegram
 
 
 #### 각종설치
