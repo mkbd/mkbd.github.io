@@ -34,7 +34,5 @@ class: middle,  full-text
 
 class: middle, full-text
 
-![](img/Raspberry_Pi_B+_top.jpg)
-
 감사합니다
 
