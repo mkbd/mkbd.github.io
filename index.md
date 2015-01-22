@@ -7,6 +7,7 @@
 - 매주 모이나?
 
 ### 최신글
+- [sitemap](doc/sitemap.md)
 - [idea](doc/idea.md)
 - [소개슬라이드](http://mkbd.github.io/slide/mkbd)
 
