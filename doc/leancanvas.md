@@ -1,26 +1,9 @@
 ###  린캠버스-예시
 [leancanvas 예시](https://custdevlabs.files.wordpress.com/2012/06/canvas.png)
 
-<table style="width:100%">
-  <tr>
-    <td rowspan=2>Problem(문제)</td>
-    <td>Solution(솔루션)</td>
-    <td rowspan=2 colspan=2> Unique Value Proposition(차별점)</td>
-    <td>Unfair Advantage(불린한점)</td>
-    <td rowspan=2>Customer Segments(타켓소비자)</td>
-  </tr>
-  <tr>
-    <td>Key Metrics(측정치)</td>
-    <td>Channels(채널)</td>
-  </tr>
-  <tr>
-    <td colspan=3>Cost Structure(비용)</td>
-    <td colspan=3>Revenue Streams(수익)</td>
-  </tr>
-</table>
+<table style="width:100%">  <tr>    <td rowspan=2>Problem(문제)</td>    <td>Solution(솔루션)</td>    <td rowspan=2 colspan=2> Unique Value Proposition(차별점)</td>    <td>Unfair Advantage(불린한점)</td>    <td rowspan=2>Customer Segments(타켓소비자)</td>  </tr>  <tr>    <td>Key Metrics(측정치)</td>    <td>Channels(채널)</td>  </tr>  <tr>    <td colspan=3>Cost Structure(비용)</td>    <td colspan=3>Revenue Streams(수익)</td>  </tr></table>
+
 ### 린캠버스-table
-
-
 <table style="width:100%">
   <tr>
     <td rowspan=2>Problem(문제) <br>스터디정보 부족</td>
