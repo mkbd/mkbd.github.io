@@ -8,6 +8,7 @@
 
 ### 최신글
 - [idea](doc/idea.md)
+- [소개슬라이드](http://mkbd.github.io/slide/mkbd)
 
 ### 링크
 - [facebook ](https://www.facebook.com/groups/679419948759796)
