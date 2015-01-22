@@ -1,3 +1,5 @@
+###  린캠버스-예시
+[leancanvas 예시](https://custdevlabs.files.wordpress.com/2012/06/canvas.png)
 
 <table style="width:100%">
   <tr>
@@ -16,9 +18,8 @@
     <td colspan=3>Revenue Streams(수익)</td>
   </tr>
 </table>
-###  린캠버스
+### 린캠버스-table
 
-[leancanvas 예시](https://custdevlabs.files.wordpress.com/2012/06/canvas.png)
 
 <table style="width:100%">
   <tr>
@@ -38,7 +39,6 @@
   </tr>
 </table>
 ### 린캠버스-스터디앱..
-
 
 <style>
 table, th, td {
