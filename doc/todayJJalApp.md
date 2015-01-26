@@ -10,6 +10,33 @@
 - \[삭제기능\] 삭제가 안되기 위하여. 싫어요 체크를 삭제가능하다.
 - 공격방어 시간을 정할까.. ;;  평일 19:00 ~ 22:00, 주말 10:00 ~ 22:00
 
+# 대충 설계
+j1~10 존재.
+
+타이머 초카운트
+
+(삭제공격)
+(삭제취소)
+(url 등록)
+
+입력 (등록)
+
+id | jal_url | mark_time
+j1 | http://makeduck.github.io/img/jal/j1.gif | 1501261050.30 |
+j2 | http://makeduck.github.io/img/jal/j1.gif |                  |
+j3 | http://makeduck.github.io/img/jal/j1.gif | 1501261050 |
+j4 | http://makeduck.github.io/img/jal/j1.gif |                  |
+j5 | http://makeduck.github.io/img/jal/j1.gif |                  |
+j6 | http://makeduck.github.io/img/jal/j1.gif |                  |
+j7 | http://makeduck.github.io/img/jal/j1.gif | 1501261050 |
+j8 | http://makeduck.github.io/img/jal/j1.gif |                  |
+j9 | http://makeduck.github.io/img/jal/j1.gif |                  |
+j10 | http://makeduck.github.io/img/jal/j1.gif |                  |
+
+
+()()()()()()()()
+
+
 ## 짤그림 예시
 ![j1](http://makeduck.github.io/img/jal/j1.gif)
 ![j2](http://makeduck.github.io/img/jal/j2.gif)
