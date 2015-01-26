@@ -2,8 +2,10 @@
 
 
 ## 앱다운로드
-- ![preview](/doc/apk/todayJJal/todayJJal.jpg)
 - [easy_today_jjal.apk](/doc/apk/todayJJal/easy_today_jjal.apk)
+
+## 스냅샷
+- ![preview](/doc/apk/todayJJal/todayJJal.jpg)
 
 ## 개요
 - 오늘의짤. 일일 선정. 하루 대문장만하게 메인에 노출
