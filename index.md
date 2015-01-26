@@ -3,15 +3,14 @@
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](https://www.facebook.com/groups/679419948759796)
 
 ### 몽키밴드
-- 코드저정소는 = bitbucket 비공개
-- 매주 모이나?
+- 정체불명모임
+- 왕십리에서 노는 무리
 
 ### 최신글
+- [린캔버스-150126](doc/leancanvas.md)
+- [소개슬라이드](http://mkbd.github.io/slide/mkbd)
 - [sitemap](doc/sitemap.md)
 - [github](https://github.com/mkbd/mkbd.github.io)
-- [leancanvas](doc/leancanvas.md)
-- [idea](doc/idea.md)
-- [소개슬라이드](http://mkbd.github.io/slide/mkbd)
 
 ### 링크
 - [facebook ](https://www.facebook.com/groups/679419948759796)
