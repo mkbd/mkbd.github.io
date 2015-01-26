@@ -1,5 +1,10 @@
 
 
+
+## 앱다운로드
+- ![preview](/doc/apk/todayJJal/todayJJal.jpg)
+- [easy_today_jjal.apk](/doc/apk/todayJJal/easy_today_jjal.apk)
+
 ## 개요
 - 오늘의짤. 일일 선정. 하루 대문장만하게 메인에 노출
 - 1page 앱.. 
@@ -33,9 +38,7 @@ j8 | http://makeduck.github.io/img/jal/j1.gif |                  |
 j9 | http://makeduck.github.io/img/jal/j1.gif |                  |
 j10 | http://makeduck.github.io/img/jal/j1.gif |                  |
 
-
 ()()()()()()()()
-
 
 ## 짤그림 예시
 ![j1](http://makeduck.github.io/img/jal/j1.gif)
