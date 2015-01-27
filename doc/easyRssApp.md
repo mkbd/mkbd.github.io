@@ -15,4 +15,4 @@
 - feedly api
 - web connectivity 이용
 - 조회/추가/자동삭제
-
+- json parse 구현해야함 구찮음;; [참고](http://www.imagnity.com/tutorials/app-inventor/web-component-json-response-on-app-inventor)
