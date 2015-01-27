@@ -2,7 +2,7 @@
 
 
 ## 앱다운로드
-- [easy_today_jjal.apk](/doc/apk/todayJJal/easy_hit_jjal.apk)
+- [easy_today_jjal.apk](/doc/apk/todayJJal/easy_hit_profile.apk)
 
 ## 스냅샷
 - ![preview](/doc/apk/todayJJal/todayJJal.jpg)
