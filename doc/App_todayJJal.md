@@ -2,7 +2,7 @@
 
 
 ## 앱다운로드
-- [easy_today_jjal.apk](/doc/apk/todayJJal/easy_hit_profile.apk)
+- [앱스토어 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_hit_profile)
 
 ## 스냅샷
 - ![preview](/doc/apk/todayJJal/todayJJal.jpg)
