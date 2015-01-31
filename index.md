@@ -9,8 +9,8 @@
 ### 최신글
 - [린캔버스_구멍가게앱-150126](doc/leancanvas.md)
 - [소개슬라이드](http://mkbd.github.io/slide/mkbd)
-- [sitemap](doc/sitemap.md)
-- [github](https://github.com/mkbd/mkbd.github.io)
 
 ### 링크
+- [sitemap](doc/sitemap.md)
+- [github](https://github.com/mkbd/mkbd.github.io)
 - [facebook ](https://www.facebook.com/groups/679419948759796)
