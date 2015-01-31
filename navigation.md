@@ -9,7 +9,7 @@
   * ## 주저리주저리
   * [주저리](doc/idea.md)
 
-[소개](doc/read_monkey.md)
+[소개](doc/red_monkey.md)
 
 <style>
 .dropdown{
