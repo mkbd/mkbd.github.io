@@ -7,7 +7,6 @@
 
 ## 캐릭터
 <img src="/doc/img/dkbd_logo.jpg" alt="img" style="width: 450px;"/>
-<img src="/doc/img/mk01.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/mk02.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/mk03.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/mk04.jpg" alt="img" style="width: 450px;"/>
