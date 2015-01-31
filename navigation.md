@@ -1,14 +1,16 @@
 # 몽키밴드
 
-[메뉴1]()
+[린캠버스](doc/leancanvas.md)
 
-  * ## 아이디어
-  * [일정](doc/idea.md)
-  
-[메뉴2]()
+[sitemap](doc/sitemap.md)
+
+[메뉴]()
 
   * ## 주저리주저리
   * [주저리](doc/idea.md)
+
+[소개]()
+
 
 <style>
 .dropdown{
