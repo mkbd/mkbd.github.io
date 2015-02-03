@@ -9,3 +9,6 @@
 - 블루투스 30m 영역내
 - 무전기는 아니고, 송신1, 수신 다수
 - 외부 공간 강의용
+
+## 참고 
+- [bluetooth chat](http://puravidaapps.com/btchat.php)
