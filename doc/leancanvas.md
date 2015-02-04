@@ -6,6 +6,7 @@
 
 ## Lean Canvas-블루투스 송/수신앱
 [블루투스 송/수신앱소개](/doc/App_loud.md)
+[App 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_blue)
 <table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제)블루투스 30m 공간내에 송/수신 대화/음성/앱동기화/무전기 가능하나 3G/lte망필요</td>        <td>4.Solution(솔루션) 전화망을 빼고 블루투스 송수신 </td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 블루투스 + APP(server+client)</td>        <td>9.Unfair Advantage(특유장점) 잃을게 없다. 다수 앱개발 경험</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 적절공간내에서 의사소통을 하고자하는자</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 앱호응도/다운로드수/별점</td>        <td>5.Channels(채널) 앱, 옆에서 하는거 보고 나도 따라서, 입소문 전파</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용) 앱개발비</td>        <td colspan=3>6.Revenue Streams(수익) 인지도/전화요금삭감비</td>    </tr></table>
 
 ## Lean Canvas-구멍가게앱
