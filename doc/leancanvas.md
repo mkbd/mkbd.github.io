@@ -1,8 +1,17 @@
 
 
+## Lean Canvas-oauth2Api공통앱
+[oauth2Api공통앱](/doc/App_oauth2api.md)
+<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) oauth2 api 제공은 많고, 공통이나 구현 앱은 쉽지 않다</td>        <td>4.Solution(솔루션) 공통 oauth2 templet </td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 공통템플릿/바로api사용가능/빠르다/쉽게/한가지앱으로여러서비스기능</td>        <td>9.Unfair Advantage(특유장점)잃은게 없다. 유사앱다수개발경험</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 오픈api를 통하여 서비스를 소모하는자</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 다운로드수/개발앱수</td>        <td>5.Channels(채널) play store / 앱다작 개발가능</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용) 앱개발인건비</td>        <td colspan=3>6.Revenue Streams(수익) 인지도 상승</td>    </tr></table>
+
+## Lean Canvas-블루투스 송/수신앱
+[블루투스 송/수신앱소개](/doc/App_loud.md)
+<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제)블루투스 30m 공간내에 송/수신 대화/음성/앱동기화/무전기 가능하나 3G/lte망필요</td>        <td>4.Solution(솔루션) 전화망을 빼고 블루투스 송수신 </td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 블루투스 + APP(server+client)</td>        <td>9.Unfair Advantage(특유장점) 잃을게 없다. 다수 앱개발 경험</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 적절공간내에서 의사소통을 하고자하는자</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 앱호응도/다운로드수/별점</td>        <td>5.Channels(채널) 앱, 옆에서 하는거 보고 나도 따라서, 입소문 전파</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용) 앱개발비</td>        <td colspan=3>6.Revenue Streams(수익) 인지도/전화요금삭감비</td>    </tr></table>
+
 ## Lean Canvas-구멍가게앱
-[구멍가게앱 소개](/doc/App_littleShop.md)
-<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 작은가게 모바일앱 없음. 큰회사중심. 다품종,소량시장앱 부재. </td>        <td>4.Solution(솔루션)  github +  app inventor + wordpress/tistory</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 작은가게도 앱이 있다. 관리비용없음. </td>        <td>9.Unfair Advantage(특유장점) 기존회사들관신대상이 아님. 잃을게 없다.</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 소상공인, 구멍가게주인 </td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 앱을통한 이슈생성정도 </td>        <td>5.Channels(채널) 입소문/웹을통한자연접근 </td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용) only 앱개발비용</td>        <td colspan=3>6.Revenue Streams(수익) 앱인기도 상승/이슈화</td>    </tr></table>
+[구멍가게앱 소개](/doc/App_minigg.md)
+[apk download](/doc/apk/oneshot/easy_oneshot.apk)
+<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 구멍가게앱부재/소상공인홍보통로없다/만들고싶으나어렵다 작은가게 모바일앱 없음. 큰회사중심. 다품종,소량시장앱 부재. </td>        <td>4.Solution(솔루션)  github +  app inventor + wordpress/tistory</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 홍보/개발비0/유지보수비0/운영쉽게 </td>        <td>9.Unfair Advantage(특유장점) 기존회사들관신대상이 아님. 잃을게 없다.</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 소상공인, 구멍가게주인 </td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 앱을통한 이슈생성정도 </td>        <td>5.Channels(채널) 입소문/웹을통한자연접근 </td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용) only 앱개발비용</td>        <td colspan=3>6.Revenue Streams(수익) 앱인기도 상승/이슈화</td>    </tr></table>
 
 ## Lean Canvas-공통RSS
 [함께RSS앱 소개](/doc/App_easyRss.md)
