@@ -23,7 +23,7 @@
 - json parse 구현해야함 구찮음;; [참고](http://www.imagnity.com/tutorials/app-inventor/web-component-json-response-on-app-inventor)
 
 ## todo bug
-- token exfire.   sandbox.feedly.com
+- token exfire.   sandbox.feedly.com. 토큰생성부분개발필요. 4.1 exfire 이후에는?
 - image size 조절. 본문 parsing 부분적으로 문제있음- 
 - \n parsing 부분. 중간 공백등으로 파씽안됨
 - 하단 iframe 영역. 밀어주기 및 저작권표시 부분
