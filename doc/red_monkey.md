@@ -13,3 +13,5 @@
 
 ## 동영상
 [](https://www.youtube.com/embed/qyFclzg-iaI)
+[](http://youtu.be/kaKQHsUM3Po)
+
