@@ -15,3 +15,4 @@
 
 ## 참고 
 - [bluetooth chat](http://puravidaapps.com/btchat.php)
+- [bluetooth example](https://sites.google.com/site/appinventorresources/home/tutorial-topics/bluetooth)
