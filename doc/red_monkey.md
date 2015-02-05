@@ -12,3 +12,4 @@
 <img src="/doc/img/mk04.jpg" alt="img" style="width: 450px;"/>
 
 ## 동영상
+[일단하자안되면말고][https://www.youtube.com/embed/qyFclzg-iaI]
