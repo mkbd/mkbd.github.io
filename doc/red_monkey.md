@@ -6,10 +6,10 @@
 - 서유기 모험의 시작 - 손오공
 
 ## 캐릭터
-<img src="/doc/img/dkbd_logo.jpg" alt="img" style="width: 450px;"/>
+<img src="/doc/img/mkbd_logo.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/mk02.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/mk03.jpg" alt="img" style="width: 450px;"/>
 <img src="/doc/img/mk04.jpg" alt="img" style="width: 450px;"/>
 
 ## 동영상
-[일단하자안되면말고][https://www.youtube.com/embed/qyFclzg-iaI]
+[일단하자안되면말고](https://www.youtube.com/embed/qyFclzg-iaI)

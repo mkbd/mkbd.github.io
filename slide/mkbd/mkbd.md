@@ -22,7 +22,7 @@ class: middle, full-text
 
 # logo
 - 나루토 10미 중 손코쿠. 붉은 원숭이
-![](img/dkbd_logo.jpg)
+![](img/mkbd_logo.jpg)
 
 ---
 
