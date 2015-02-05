@@ -17,3 +17,8 @@
 
 # ex
 - [봉화산 포차 "한잔"](http://blog.naver.com/PostView.nhn?blogId=gunimi&logNo=50191416679)
+
+
+# 변경 내역
+- 150205 play market 등록, text 영역 운영
+- 150205 메뉴 이미지 3개 추가
