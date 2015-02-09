@@ -8,3 +8,5 @@
 
 # 참고
 - [직방히트뒤에다음지도있었다](https://twitter.com/channyun/status/563160698914492416)
+- [oauth 인증 ]http://puravidaapps.com/oauth.php
+- redirect url urn:ieft:wg:oauth:2.0:oobhttp://localhost
