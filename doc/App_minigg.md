@@ -15,10 +15,15 @@
 - 두번째. 메뉴가격정보, 잔여좌석수
 - 세번째. 평가글. 블로그글들, 이미지들.
 
-# ex
-- [봉화산 포차 "한잔"](http://blog.naver.com/PostView.nhn?blogId=gunimi&logNo=50191416679)
+## 점포리스트
+- [1호점 봉화산 포차 "한잔"](http://blog.naver.com/PostView.nhn?blogId=gunimi&logNo=50191416679)
+- 2호점
+
+## todo
+- 5 앱채널 전략에서 막힘., 8측정요소 향상을 위한 노력이 필요함. 오픈후 정채중.. 
 
 
 # 변경 내역
 - 150205 play market 등록, text 영역 운영
 - 150205 메뉴 이미지 3개 추가
+- 150207 앱이름변경 easy_onshot -> 한잔
