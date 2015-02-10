@@ -1,6 +1,6 @@
 
 ## Lean Canvas-bucketlist앱
-[버킷리스트앱](/doc/App_bucketiist).md)
+[버킷리스트앱](/doc/App_bucketiist.md)
 
 
 ## Lean Canvas-oauth2Api공통앱
