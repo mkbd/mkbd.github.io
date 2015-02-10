@@ -51,3 +51,40 @@ GET /user/storyline/daily?pastDays=<pastDays>[&trackPoints=true/false][&updatedS
 - redirect url urn:ieft:wg:oauth:2.0:oobhttp://localhost
 
 
+# ideation 
+```
+
+token 가져오는 부분.
+url 파라미터
+url, array pytho 으로  받는게 낫겠다.
+api 중계센터?
+조회 조건
+
+call list , 조회 조건
+리스트 형태 데이터  [클릭] 상세 화면
+아이템 수정/추가/삭제
+
+[리스트]  .. 조회   조건[] 멀티 조건을 받기위한 파이썬이 좋은듯.
+
+rest api 형식을 맞추기... 심플화 url, [, ,,, ]  복수가 파라메터.
+for repalce firt 하나씩 파라미터 바인드.ㅇ
+
+url 은 먼저 등록
+등록된 api 별로 url 먼저 등록, 조회는 파라미터 미리 필요함.
+나머지는 공통으로 쓰자.
+
+리스트 조회 여러개
+아이템별 key 존재
+key 선택시 개별 아이템 상세
+key 이용 수정/삭제 가능
+목록에서도 노출된 컬럼은 수정 가능.
+상세화면에서는 모든 컬럼 항목 수정 가능.
+입력/수정 화면은 공통으로 사용
+
+stepi1. 조회 먼저 그냥 구현.
+
+step2. 입력/수정/삭제
+
+```
+
+
