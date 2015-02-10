@@ -14,7 +14,7 @@
 -json type in/output api 만드는게 낫지 않는가 또는 api 수준의 앱
 - api 만들기 입력 파라메터, output은 formatting 된 json문서
  
- ## feedly api
+## feedly api
 - rss feed api
 - api summary 
 
@@ -28,7 +28,6 @@ curl 'http://cloud.feedly.com/v3/subscriptions' -H 'Authorization: OAuth YourAut
 Example 3: Get the most popular articles from Engadget
 curl 'http://cloud.feedly.com/v3/mixes/contents?streamId=feed%2Fhttp%3A%2F%2Fwww.engadget.com%2Frss.xml&count=3' -H 'Authorization: OAuth YourAuthToken'
 ```
-
 ## whooing api
 - [가계부 api](https://whooing.com/#forum/developer/ko/authorization)
 
