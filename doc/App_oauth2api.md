@@ -30,6 +30,7 @@ curl 'http://cloud.feedly.com/v3/mixes/contents?streamId=feed%2Fhttp%3A%2F%2Fwww
 ```
 ## whooing api
 - [가계부 api](https://whooing.com/#forum/developer/ko/authorization)
+- api 지원많음
 
 ## move api
 - [move api](https://dev.moves-app.com/docs/authentication)
@@ -41,6 +42,9 @@ GET /user/storyline/daily/<month>[?updatedSince=<updatedSince>][&timeZone=<timeZ
 GET /user/storyline/daily?from=<from>&to=<to>[&trackPoints=true/false][&updatedSince=<updatedSince>][&timeZone=<timeZone>]
 GET /user/storyline/daily?pastDays=<pastDays>[&trackPoints=true/false][&updatedSince=<updatedSince>][&timeZone=<timeZone>]
 ```
+
+## 각종 api
+
 # 참고
 - [직방히트뒤에다음지도있었다](https://twitter.com/channyun/status/563160698914492416)
 - [oauth 인증 ]http://puravidaapps.com/oauth.php
