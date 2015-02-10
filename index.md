@@ -1,4 +1,4 @@
-![대문](http://static.hdw.eweb4.com/media/wp_400/1/1/2492.jpg)
+![대문](/doc/img/mkbd_logo.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](https://www.facebook.com/groups/679419948759796)
 
@@ -7,7 +7,7 @@
 - 왕십리에서 노는 무리
 
 ### 최신글
-- [블루투스 송/수신앱-150203](doc/leancanvas.md)
+- [버킷리스트앱-150210](doc/leancanvas.md)
 - [소개슬라이드](http://mkbd.github.io/slide/mkbd)
 
 ### 링크

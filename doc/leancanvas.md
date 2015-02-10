@@ -1,7 +1,11 @@
 
+## Lean Canvas-bucketlist앱
+[버킷리스트앱](/doc/App_bucketiist).md)
+
 
 ## Lean Canvas-oauth2Api공통앱
 [oauth2Api공통앱](/doc/App_oauth2api.md)
+[App 다운로드]()
 <table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) oauth2 api 제공은 많고, 공통이나 구현 앱은 쉽지 않다</td>        <td>4.Solution(솔루션) 공통 oauth2 templet </td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 공통템플릿/바로api사용가능/빠르다/쉽게/한가지앱으로여러서비스기능</td>        <td>9.Unfair Advantage(특유장점)잃은게 없다. 유사앱다수개발경험</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 오픈api를 통하여 서비스를 소모하는자</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 다운로드수/개발앱수</td>        <td>5.Channels(채널) play store / 앱다작 개발가능</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용) 앱개발인건비</td>        <td colspan=3>6.Revenue Streams(수익) 인지도 상승</td>    </tr></table>
 
 ## Lean Canvas-블루투스 확성기/메가폰앱
