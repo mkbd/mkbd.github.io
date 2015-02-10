@@ -10,7 +10,11 @@
 - 여러앱을 함쳐놓은 것 같이 사용 가능 하다.
 - 2차 가공전 1차 webview json 포맷을 이쁘게 보여주는것까지 한다.
 
-## feedly api
+## 2차 피벗
+-json type in/output api 만드는게 낫지 않는가 또는 api 수준의 앱
+- api 만들기 입력 파라메터, output은 formatting 된 json문서
+ 
+ ## feedly api
 - rss feed api
 - api summary 
 
