@@ -8,16 +8,36 @@
 - 매시업을 쉽게 할 수 있도록 템플릿화 한다
 - 공통된 부분을 정리한다
 - 여러앱을 함쳐놓은 것 같이 사용 가능 하다.
+- 2차 가공전 1차 webview json 포맷을 이쁘게 보여주는것까지 한다.
 
 ## feedly api
 - rss feed api
+- api summary 
+
+```
+Example 1: Get access to the content of the ReadWrite feed
+curl 'http://cloud.feedly.com/v3/stream/contents?streamId=feed%2Fhttp%3A%2F%2Fwww.readwriteweb.com%2Frss.xml&count=20' -H 'Authorization: OAuth YourAuthToken'
+
+Example 2: Get access to the personalization graph of an authenticated user
+curl 'http://cloud.feedly.com/v3/subscriptions' -H 'Authorization: OAuth YourAuthToken'
+
+Example 3: Get the most popular articles from Engadget
+curl 'http://cloud.feedly.com/v3/mixes/contents?streamId=feed%2Fhttp%3A%2F%2Fwww.engadget.com%2Frss.xml&count=3' -H 'Authorization: OAuth YourAuthToken'
+```
 
 ## whooing api
 - [가계부 api](https://whooing.com/#forum/developer/ko/authorization)
 
 ## move api
 - [move api](https://dev.moves-app.com/docs/authentication)
-
+- api summary 
+```
+GET /user/storyline/daily/<date>[?trackPoints=true/false][&updatedSince=<updatedSince>][&timeZone=<timeZone>]
+GET /user/storyline/daily/<week>[?trackPoints=true/false][&updatedSince=<updatedSince>][&timeZone=<timeZone>]
+GET /user/storyline/daily/<month>[?updatedSince=<updatedSince>][&timeZone=<timeZone>]
+GET /user/storyline/daily?from=<from>&to=<to>[&trackPoints=true/false][&updatedSince=<updatedSince>][&timeZone=<timeZone>]
+GET /user/storyline/daily?pastDays=<pastDays>[&trackPoints=true/false][&updatedSince=<updatedSince>][&timeZone=<timeZone>]
+```
 # 참고
 - [직방히트뒤에다음지도있었다](https://twitter.com/channyun/status/563160698914492416)
 - [oauth 인증 ]http://puravidaapps.com/oauth.php
