@@ -1,6 +1,6 @@
+
 ![대문](/doc/img/mkbd_logo.jpg)
 
-[gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](https://www.facebook.com/groups/679419948759796)
 
 ### 몽키밴드
 - 정체불명모임
