@@ -1,7 +1,12 @@
 
+
+## Lean Canvas-movesApp copy
+- [moves APP](https://play.google.com/store/apps/details?id=com.protogeo.moves) copy
+- moves appinventor version
+
 ## Lean Canvas-bucketlist앱
 [버킷리스트앱](/doc/App_bucketiist.md)
-
+- 유사앱 또는 대체제가 많아서 홀딩함
 
 ## Lean Canvas-oauth2Api공통앱
 [oauth2Api공통앱](/doc/App_oauth2api.md)
