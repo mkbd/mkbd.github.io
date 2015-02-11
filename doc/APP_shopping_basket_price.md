@@ -6,6 +6,7 @@
 - 많이사용하는 물건 중심
 - 가이드 가격제시
 - [공공데이터 포털 api](https://www.data.go.kr/insttSearch.jsp?insttCode=5000000)
+- [서울시 공공데이터 포털 api](http://data.seoul.go.kr/)
 - api 좋은데/ 가격데이터는 믿을만 한가 / 파일로 주는 통계데이터도 있다. 
 - 싹다 긁어서 재가공 필요. db 적립해 둘것.
 - 메인 1page 앱
