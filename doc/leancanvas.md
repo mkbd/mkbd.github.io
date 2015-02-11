@@ -1,5 +1,13 @@
 
 
+## Lean Canvas-장바구니물가앱
+- 일간 장바구니 리스트 목록/가격
+- 공공데이터에서 시장 물가 지원해주는가?
+
+## Lean Canvas-큐어리스트앱
+- [큐어리스트앱](/doc/APP_curlist.md)
+<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 재밌는거/보고픈고/좋은거를 알아서 찾아주었으면좋겠다. 큐레이션. 날로 먹겠다.</td>        <td>4.Solution(솔루션) 일갱신배치목록생선 python scrapy</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 일갱신/고퀄리스트</td>        <td>9.Unfair Advantage(특유장점)재미질꺼 같음</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 전국민</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 앱제거율</td>        <td>5.Channels(채널) 일단설치되면안지우고프게</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)개발/유지비 일일 스크랩핑,목록화 job 수행비, 크롤/스크랩핑 중심 유지보수 개발비 소요. 손이 많이감</td>        <td colspan=3>6.Revenue Streams(수익)인지도상승/영향력상승 선택해준 링크에 인지도를 줌. 선택한 게시물이 뜨게됨</td>    </tr></table>
+
 ## Lean Canvas-movesApp copy
 - [moves APP](https://play.google.com/store/apps/details?id=com.protogeo.moves) copy
 - moves appinventor version
