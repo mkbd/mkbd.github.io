@@ -16,7 +16,7 @@
  
 ## feedly api
 - rss feed api
-- api summary 
+- api summary
 
 ```
 Example 1: Get access to the content of the ReadWrite feed
@@ -44,6 +44,7 @@ GET /user/storyline/daily?pastDays=<pastDays>[&trackPoints=true/false][&updatedS
 ```
 
 ## 각종 api
+- trello api
 
 # 참고
 - [직방히트뒤에다음지도있었다](https://twitter.com/channyun/status/563160698914492416)
