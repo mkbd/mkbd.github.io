@@ -17,6 +17,7 @@
 - 본문중심설계
 
 ## 구연 
+- [우수블로그리스트 opml](/doc/apk/easyRss/feedly_all.opml)
 - feedly api
 - web connectivity 이용
 - 조회/추가/자동삭제
@@ -27,4 +28,5 @@
 - image size 조절. 본문 parsing 부분적으로 문제있음- 
 - \n parsing 부분. 중간 공백등으로 파씽안됨
 - 하단 iframe 영역. 밀어주기 및 저작권표시 부분
+
 
