@@ -36,6 +36,9 @@
 [설명](/doc/App_bucketiist.md)
 - 유사앱 또는 대체제가 많아서 홀딩함
 
+## Lean Canvas-homeToSchool앱
+[설명](/doc/APP_homeToSchool.md)
+
 ## Lean Canvas-oauth2Api공통앱
 [설명](/doc/App_oauth2api.md)
 [App 다운로드]()
