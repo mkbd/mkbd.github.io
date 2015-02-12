@@ -1,5 +1,25 @@
 
 
+
+## Lean Canvas-얼굴변화기록앱
+- [설명](/doc/APP_myface.md)
+- 일1회 셀카이미지 저장, 영상 플레이
+
+## Lean Canvas-월갈무리앱
+- [설명](/doc/APP_keep.md)
+- 월1회 이미지 / 년단위사용앱/ 기억저장용 /선택장애해소앱
+
+## Lean Canvas-앙부일구앱또는해시계앱
+- [설명](/doc/APP_sun_clock.md)
+
+## Lean Canvas-절기소개앱
+- [설명](/doc/APP_season.md)
+- 지구시계 수정
+
+## Lean Canvas-달위상변화앱
+- 날짜 맞는 달모양 표시
+- [설명](/doc/APP_moon.md)
+
 ## Lean Canvas-장바구니물가앱
 - [설명](/doc/APP_shopping_basket_price.md)
 <table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 가격을 보고 싸다/비싸다 판단 못함, 무엇을사야할지도 모르겠다</td>        <td>4.Solution(솔루션)기준가격/장바구니목록</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질)선태고민해결/나쁘지안다/비교기준이된다</td>        <td>9.Unfair Advantage(특유장점)유사앱아직없는듯.최초앱?</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 주부/점진적입소문</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법)앱인지도</td>        <td>5.Channels(채널)줌마채널</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)초기앱개발비/크롤링데이터생산운영비</td>        <td colspan=3>6.Revenue Streams(수익)앱인지도/개발인지도</td>    </tr></table>
