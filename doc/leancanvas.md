@@ -1,3 +1,24 @@
+## Lean Canvas-PTtimer
+- [설명](/doc/APP_pt_timer.md)
+- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.harry_pt)
+<table style="width:100%">
+    <tr>
+        <td rowspan=2>1.Problem(문제) pt전용타이머부재 </td>
+        <td>4.Solution(솔루션)simple ,pt맞춤형설정지원(복수예약/1분이내/짧은소리알림) </td>
+        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) pt맞춤형</td>
+        <td>9.Unfair Advantage(특유장점) 빠른대응/지인경험반영</td>
+        <td rowspan=2>2.Customer Segments(타켓소비자) personal training 을 받는 30대 여성</td>
+    </tr>
+    <tr>
+        <td>8.Key Metrics(측정방법) 다운로드수</td>
+        <td>5.Channels(채널)헬스장</td>
+    </tr>
+    <tr>
+        <td colspan=3>7.Cost Structure(비용) 앱개발비</td>
+        <td colspan=3>6.Revenue Streams(수익) 앱인지도</td>
+    </tr>
+</table>
+
 ## Lean Canvas-공공데이터api
 - [설명](/doc/APP_pubapi.md)
 
