@@ -2,13 +2,6 @@
 
 [린캠버스](doc/leancanvas.md)
 
-[sitemap](doc/sitemap.md)
-
-[메뉴]()
-
-  * ## 주저리주저리
-  * [주저리](doc/idea.md)
-
 [소개](doc/red_monkey.md)
 
 <style>
