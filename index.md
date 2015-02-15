@@ -6,7 +6,7 @@
 - 왕십리에서 주로 모임
 
 ### 최신글
-- [버킷리스트앱-150210](doc/leancanvas.md)
+- [동궐도앱-150215](doc/leancanvas.md)
 - [소개슬라이드](http://mkbd.github.io/slide/mkbd)
 
 ### 링크
