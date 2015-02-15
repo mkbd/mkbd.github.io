@@ -1,3 +1,8 @@
+
+## Lean Canvas-동궐도앱
+- 동궐도앱위에 gps
+- [설명](/doc/APP_DongggweldoMap.md)
+
 ## Lean Canvas-PTtimer
 - [설명](/doc/APP_pt_timer.md)
 - [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.harry_pt)
