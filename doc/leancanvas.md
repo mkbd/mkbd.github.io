@@ -43,7 +43,7 @@
 - [moves APP](https://play.google.com/store/apps/details?id=com.protogeo.moves) copy
 - moves appinventor version
 
-## Lean Canvas-bucketlist앱
+## ~~Lean Canvas-bucketlist앱~~
 [설명](/doc/App_bucketiist.md)
 - 유사앱 또는 대체제가 많아서 홀딩함
 
