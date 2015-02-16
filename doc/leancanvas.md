@@ -57,6 +57,7 @@
 
 ## Lean Canvas-블루투스 확성기/메가폰앱
 [설명](/doc/App_megaphone.md)
+- 유사앱 또는 대체제가 있어 홀딩함
 
 ## Lean Canvas-블루투스 채팅앱
 [설명](/doc/App_loud.md)
