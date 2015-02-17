@@ -2,7 +2,7 @@
 ## Lean Canvas-음주측정앱
 - 가속도/위치 흔들림 이용 음주측정
 
-## Lean Canvas-appinventorFOr아두베리
+## ~~Lean Canvas-appinventorFOr아두베리~~
 - appinventor for aurduino/ raspberryPi
 - [비슷한거](http://s4a.cat/)
 
