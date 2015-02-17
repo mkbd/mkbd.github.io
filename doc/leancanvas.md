@@ -1,4 +1,10 @@
 
+## Lean Canvas-음주측정앱
+- 가속도/위치 흔들림 이용 음주측정
+
+## Lean Canvas-appinventorFOr아두베리
+- appinventor for aurduino/ raspberryPi
+
 ## Lean Canvas-동궐도앱
 - 동궐도앱위에 gps
 - [설명](/doc/APP_DongggweldoMap.md)

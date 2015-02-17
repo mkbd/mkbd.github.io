@@ -15,3 +15,7 @@
 #[일단시작하자,안되면말고](http://bestani.net/files/attach/images/21318/110/813/e14f6c872aa88f06dbbecb02666c4b15.jpg)
 [](https://www.youtube.com/embed/qyFclzg-iaI)
 
+## 비젼
+- 방향 : 과학/놀이/대중/교육/학습
+- 방법 : 레고/블록코딩/인터프린터
+- 형태 : 자동차/로봇
