@@ -4,6 +4,7 @@
 
 ## Lean Canvas-appinventorFOr아두베리
 - appinventor for aurduino/ raspberryPi
+- [비슷한거](http://s4a.cat/)
 
 ## Lean Canvas-동궐도앱
 - 동궐도앱위에 gps
