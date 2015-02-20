@@ -1,4 +1,4 @@
-## Lean Canvas-한페이지광과앱
+## Lean Canvas-한페이지광고앱
 - 한페이지 땅따먹기 광고
 
 ## Lean Canvas-음주측정앱
