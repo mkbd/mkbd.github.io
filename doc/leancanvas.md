@@ -1,8 +1,3 @@
-
-
-## Lean Canvas-앙부일구앱
-- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_abig)
-
 ## Lean Canvas-한페이지광과앱
 - 한페이지 땅따먹기 광고
 
@@ -30,12 +25,13 @@
 - [설명](/doc/APP_myface.md)
 - 일1회 셀카이미지 저장, 영상 플레이
 
-## Lean Canvas-월갈무리앱
+## ~~Lean Canvas-월갈무리앱~~
 - [설명](/doc/APP_keep.md)
 - 월1회 이미지 / 년단위사용앱/ 기억저장용 /선택장애해소앱
 
-## Lean Canvas-앙부일구앱또는해시계앱
+## Lean Canvas-앙부일구앱
 - [설명](/doc/APP_sun_clock.md)
+- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_abig)
 
 ## Lean Canvas-절기소개앱
 - [설명](/doc/APP_season.md)
@@ -44,6 +40,7 @@
 ## Lean Canvas-달위상변화앱
 - 날짜 맞는 달모양 표시
 - [설명](/doc/APP_moon.md)
+- App 다운로드
 
 ## Lean Canvas-장바구니물가앱
 - [설명](/doc/APP_shopping_basket_price.md)
