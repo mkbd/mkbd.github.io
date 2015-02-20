@@ -1,5 +1,8 @@
 
 
+## Lean Canvas-앙부일구앱
+- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_abig)
+
 ## Lean Canvas-한페이지광과앱
 - 한페이지 땅따먹기 광고
 
