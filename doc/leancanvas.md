@@ -21,9 +21,10 @@
 ## Lean Canvas-공공데이터api
 - [설명](/doc/APP_pubapi.md)
 
-## Lean Canvas-얼굴변화기록앱
+## ~~Lean Canvas-얼굴변화기록앱~~
 - [설명](/doc/APP_myface.md)
 - 일1회 셀카이미지 저장, 영상 플레이
+- 구지
 
 ## ~~Lean Canvas-월갈무리앱~~
 - [설명](/doc/APP_keep.md)
