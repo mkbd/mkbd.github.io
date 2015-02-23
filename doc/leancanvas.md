@@ -8,8 +8,8 @@
 - appinventor for aurduino/ raspberryPi
 - [비슷한거](http://s4a.cat/)
 
-## Lean Canvas-동궐도앱
-- 동궐도앱위에 gps 궁세분화 창덕궁/후원/창경궁 필요
+## Lean Canvas-궁궐스탬프앱
+- 방문스탬프 창덕궁 궁세분화 창덕궁/후원/창경궁 필요
 - [설명](/doc/APP_DongggweldoMap.md)
 - [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_changdeokgung)
 <table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제)궁궐/다타고없다/여기가어딘지모른다</td>        <td>4.Solution(솔루션) map api/mobile web/gps 을 이용하여 동궐도위에 gps 표시해준다.</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 동궐도/gps표시</td>        <td>9.Unfair Advantage(특유장점)비영리앱대상. 필요하나 아무도 만들지 않는다</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 동궐관람객/학생</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법)쓰여지는정도</td>        <td>5.Channels(채널) 궁궐/역사/스터디/모임</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)개발비</td>        <td colspan=3>6.Revenue Streams(수익)인지도</td>    </tr></table>
@@ -51,6 +51,7 @@
 
 ## Lean Canvas-큐어리스트앱
 - [설명](/doc/APP_curlist.md)
+- [App 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.mk_issue)
 <table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 재밌는거/보고픈고/좋은거를 알아서 찾아주었으면좋겠다. 큐레이션. 날로 먹겠다.</td>        <td>4.Solution(솔루션) 일갱신배치목록생선 python scrapy</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 일갱신/고퀄리스트</td>        <td>9.Unfair Advantage(특유장점)재미질꺼 같음</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 전국민</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 앱제거율</td>        <td>5.Channels(채널) 일단설치되면안지우고프게</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)개발/유지비 일일 스크랩핑,목록화 job 수행비, 크롤/스크랩핑 중심 유지보수 개발비 소요. 손이 많이감</td>        <td colspan=3>6.Revenue Streams(수익)인지도상승/영향력상승 선택해준 링크에 인지도를 줌. 선택한 게시물이 뜨게됨</td>    </tr></table>
 
 ## Lean Canvas-movesApp copy
@@ -99,6 +100,7 @@
 <table style="width:100%">    <tr>        <td rowspan=2>Problem(문제) 컨텐츠 홍수.범란.난리</td>        <td>Solution(솔루션) 사용자별 맞춤 컨텐츠 제시. 목이마른자에게 물을. 배고픈자에게 빵을. 일간컨텐츠목록제시</td>        <td rowspan=2 colspan=2> Unique Value Proposition(존재 본질) 초심플. 맞춤정도.</td>        <td>Unfair Advantage(특유장점) 열정페이. 잃을께 없다. </td>        <td rowspan=2>Customer Segments(타켓소비자) 인터넷사용유저.</td>    </tr>    <tr>        <td>Key Metrics(측정방법) 방문율/재방문율</td>        <td>Channels(채널) github페이지. 뜻밖에 홍보. 블로그.카페.페북. 자체홍보</td>    </tr>    <tr>        <td colspan=3>Cost Structure(비용) 컨첸츠사용비용?</td>        <td colspan=3>Revenue Streams(수익) 컨텐츠제공자를 유명하게해줌. 인기. 반등. 트래픽을 몰아줌. 끼어가는 광고수익</td>    </tr></table>
 
 ### Lean Canvas-스터디앱
+마켓 배포 필요
 [설명](/doc/App_study.md)
 [App 다운로드](/doc/apk/easy_studyapp.apk)
 <table style="width:100%">  <tr>    <td rowspan=2>Problem(문제) <br>스터디정보 부족</td>    <td>Solution(솔루션) <br>스터디매칭, 정보제공</td>    <td rowspan=2 colspan=2> Unique Value Proposition(존재본질) <br> ㅡ.ㅡ</td>    <td>Unfair Advantage(특유장점) <br> 열정페이. 팀웍좋음. 잃을게없다</td>    <td rowspan=2>Customer Segments(타켓소비자)<br> 취업준비생, 토익,공무원등스터디 준비자</td>  </tr>  <tr>    <td>Key Metrics(측정방법)<br>앱다운로드수,사용유지비율,오픈참가율</td>    <td>Channels(채널)<br>안드로이드마켓,뜻밖에기사홍보?</td>  </tr>  <tr>    <td colspan=3>Cost Structure(비용)<br>앱개발비용, 홍보비용</td>    <td colspan=3>Revenue Streams(수익)<br>앱배너광고수익.</td>  </tr></table>
