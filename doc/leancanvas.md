@@ -1,6 +1,11 @@
 
 ## [중단된 앱리스트](holdApp.md)
 
+## Lean Canvas-webservice appinventorFor아두베리
+- appinventor for aurduino/ raspberryPi
+- blocky 이용  [codeGen](https://blockly-demo.appspot.com/static/demos/code/index.html)
+- blocky demo [https://blockly-demo.appspot.com/static/demos/index.html]
+- [비슷한거](http://s4a.cat/) -- 로컬프로그램 버젼
 
 ## Lean Canvas-절기소개앱
 - [설명](/doc/APP_season.md)

@@ -1,6 +1,3 @@
-## ~~Lean Canvas-appinventorFOr아두베리~~
-- appinventor for aurduino/ raspberryPi
-- [비슷한거](http://s4a.cat/)
 
 ## ~~Lean Canvas-얼굴변화기록앱~~
 - [설명](/doc/APP_myface.md)
