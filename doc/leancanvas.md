@@ -1,18 +1,13 @@
 
-## [중단된 앱리스트](holdApp.md)
-
 ## Lean Canvas-webservice appinventorFor아두베리
 - appinventor for aurduino/ raspberryPi
 - blocky 이용  [codeGen](https://blockly-demo.appspot.com/static/demos/code/index.html)
-- blocky demo [https://blockly-demo.appspot.com/static/demos/index.html]
+- [blocky demo] (https://blockly-demo.appspot.com/static/demos/index.html)
 - [비슷한거](http://s4a.cat/) -- 로컬프로그램 버젼
 
 ## Lean Canvas-절기소개앱
 - [설명](/doc/APP_season.md)
 - 지구시계 수정
-
-## Lean Canvas-한페이지광고앱
-- 한페이지 땅따먹기 광고
 
 ## Lean Canvas-음주측정앱
 - 가속도/위치 흔들림 이용 음주측정
@@ -90,6 +85,8 @@
 
 ### Lean Canvas-table [설명영어](https://custdevlabs.files.wordpress.com/2012/06/canvas.png)  [설명한글](http://origilalala.tistory.com/529)
 <table style="width:100%">  <tr>    <td rowspan=2>Problem(문제)</td>    <td>Solution(솔루션)</td>    <td rowspan=2 colspan=2> Unique Value Proposition(존재본질)</td>    <td>Unfair Advantage(특유장점)</td>    <td rowspan=2>Customer Segments(타켓소비자)</td>  </tr>  <tr>    <td>Key Metrics(측정방법)</td>    <td>Channels(채널)</td>  </tr>  <tr>    <td colspan=3>Cost Structure(비용)</td>    <td colspan=3>Revenue Streams(수익)</td>  </tr></table>
+
+## [중단된 앱리스트](holdApp.md)
 
 <style>
 table, th, td {
