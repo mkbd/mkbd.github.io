@@ -13,6 +13,7 @@
 
 ## Lean Canvas-절기소개앱
 - [설명](/doc/APP_season.md)
+- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_earth)
 - 지구시계 수정
 
 ## Lean Canvas-음주측정앱
