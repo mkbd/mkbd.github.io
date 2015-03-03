@@ -1,3 +1,8 @@
+
+## Lean Canvas-경희궁앱
+경희궁 소개앱
+[APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_gyeonghuigung)
+
 ## Lean Canvas-한땀한땀동영상검색
 검색 키워드, 음성&자막 분석, 관련 동영상 찾아줌.
 
