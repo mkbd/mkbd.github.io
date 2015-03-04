@@ -1,4 +1,12 @@
 
+## Lean Canvas-metablog api앱
+- 네버/tistory/다음/워드프레스 공통 블로그앱
+- [설명](/doc/APP_allblog.md)
+
+## Lean Canvas-제안앱
+건의/제안/요청 앱
+[설명](/doc/APP_suggest.md)
+
 ## Lean Canvas-경희궁앱
 경희궁 소개앱
 [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_gyeonghuigung)
