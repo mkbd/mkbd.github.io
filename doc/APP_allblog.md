@@ -5,7 +5,7 @@
 
 #참고 
 [metaWebBlog api msdn](https://msdn.microsoft.com/ko-kr/library/bb259697.aspx)
-
+window live writer
 
 #기능 
 - 기본기능만 있음. 최소 기능;
