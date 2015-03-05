@@ -1,7 +1,9 @@
 
-## Lean Canvas-event응모앱
-- ppinventor 에서 xmlrpc 지원모듈 나올때까지 홀딩
-- [설명](/doc/APP_evnetApply.md)
+
+## Lean Canvas-metablog api앱
+- appinventor 에서 xmlrpc 지원모듈 나올때까지 홀딩
+- 네버/tistory/다음/워드프레스 공통 블로그앱
+- [설명](/doc/APP_metablog.md)
 
 ## Lean Canvas-음주측정앱
 - 가속도/위치 흔들림 이용 음주측정
