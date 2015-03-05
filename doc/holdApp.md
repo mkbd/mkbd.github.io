@@ -1,4 +1,8 @@
 
+## Lean Canvas-event응모앱
+- ppinventor 에서 xmlrpc 지원모듈 나올때까지 홀딩
+- [설명](/doc/APP_evnetApply.md)
+
 ## Lean Canvas-음주측정앱
 - 가속도/위치 흔들림 이용 음주측정
 - 안쓰여질꺼 같음

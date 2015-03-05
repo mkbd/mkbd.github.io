@@ -1,5 +1,6 @@
 # 모든 블로그 app
-- appinventor 하고 metawebblog랑 연결쓰기가 불편함. 서버 필요할듯 ㅡ.ㅡ
+ppinventor 에서 xmlrpc 지원모듈 나올때까지 홀딩
+- appinventor 하고 metawebblog랑 연결쓰기가 불편함. a
 - MetaWeblogApi 
 - 네이버/티스토리/다음블록/wordpress 블로그 공통앱 
 - 모바일 심플 블로그앱
