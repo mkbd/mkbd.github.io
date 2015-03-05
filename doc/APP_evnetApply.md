@@ -5,12 +5,14 @@ read  특정 페이지 크롤링
 데이터 추출 // 신규 내용 감지
 크롤 정제 저장 데이터 선정
  
- table 이벤트
+ table 이벤트(hs_event)
  회차/타이틀/마감날짜/ 마감일 / 본문내용 img url
  id  / title / close_date / cont_img_url
+ 회차가 같으면 안들어감
  
- table item
+ table item(hs_item)
  id / item_id
+ id 회차가 같으면 안들어감
 
 블로그 글 작성  또는 카페, 블로그, 타블로그 전부 괜찮음
 
@@ -26,5 +28,10 @@ for i in  mybloglist
  i.post(datastruct)
  
 ### comment at event post 특정게시물 로그인/ 댓글 작성
+
+
+
+기능
+- 댓글리스틑 목록 셈을 통한 확율높은 item선정
 
 

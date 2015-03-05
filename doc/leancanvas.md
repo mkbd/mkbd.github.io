@@ -10,13 +10,6 @@
 경희궁 소개앱
 [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_gyeonghuigung)
 
-## Lean Canvas-한땀한땀동영상검색
-검색 키워드, 음성&자막 분석, 관련 동영상 찾아줌.
-
-## Lean Canvas-자기조립레고
-- 블럭인식레고
-<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 많은부품/찾기어렵다 </td>        <td>4.Solution(솔루션)  블록안에인식태그포함/신호주고 받은가능/자성을 통한 셀프조립/부품분리수월화/조립수월 </td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 자석/블럭인식/셀프조립.</td>        <td>9.Unfair Advantage(특유장점) 최초?유사사례조사필요 ,셀프조립기술 요거는 최초일듯, 선개발에 따른 리딩/ 시장선점</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 레고사용자</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 판매수</td>        <td>5.Channels(채널) 온라인 마켓</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용) 개발연구/재료비/소프트개발비 </td>        <td colspan=3>6.Revenue Streams(수익) 제품매출</td>    </tr></table>
-
 ## Lean Canvas-webservice appinventorFor아두베리
 - appinventor for aurduino/ raspberryPi
 - blocky 이용  [codeGen](https://blockly-demo.appspot.com/static/demos/code/index.html)
