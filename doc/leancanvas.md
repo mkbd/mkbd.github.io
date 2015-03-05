@@ -1,7 +1,11 @@
 
+
+## Lean Canvas-event응모앱
+- [설명](/doc/APP_evnetApply.md)
+
 ## Lean Canvas-metablog api앱
 - 네버/tistory/다음/워드프레스 공통 블로그앱
-- [설명](/doc/APP_allblog.md)
+- [설명](/doc/APP_metablog.md)
 
 ## Lean Canvas-제안앱
 건의/제안/요청 앱
