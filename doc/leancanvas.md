@@ -33,9 +33,6 @@
 - [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_earth)
 - 지구시계 수정
 
-## Lean Canvas-음주측정앱
-- 가속도/위치 흔들림 이용 음주측정
-
 ## Lean Canvas-궁궐스탬프앱
 - 방문스탬프 창덕궁 궁세분화 창덕궁/후원/창경궁 필요
 - [설명](/doc/APP_DongggweldoMap.md)
