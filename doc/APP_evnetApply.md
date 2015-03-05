@@ -35,3 +35,7 @@ for i in  mybloglist
 - 댓글리스틑 목록 셈을 통한 확율높은 item선정
 
 
+url
+http://www.hansatoy.kr/board/board.html?code=hansatoy_board6&page=1&type=v&num1=999955&num2=00000&lock=N
+http://www.hansatoy.kr/board/board.html?code=hansatoy_board6&page=1&type=v&num1=999956&num2=00000&lock=N
+
