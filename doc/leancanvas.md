@@ -1,4 +1,7 @@
 
+## Lean Canvas-html5앱
+- html5 브라우저 모바일하드웨어제어앱
+
 ## Lean Canvas-event응모앱
 - [설명](/doc/APP_evnetApply.md)
 
