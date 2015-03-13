@@ -1,4 +1,8 @@
 
+
+## Lean Canvas-요가앱
+- 가이드앱
+
 ## Lean Canvas-html5앱
 - html5 브라우저 모바일하드웨어제어앱
 
