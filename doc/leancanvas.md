@@ -1,5 +1,11 @@
 
 
+## Lean Canvas-궁궐스탬프앱
+- 방문스탬프 창덕궁 궁세분화 창덕궁/후원/창경궁 필요
+- [설명](/doc/APP_DongggweldoMap.md)
+- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_changdeokgung)
+<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제)궁궐/다타고없다/여기가어딘지모른다</td>        <td>4.Solution(솔루션) map api/mobile web/gps 을 이용하여 동궐도위에 gps 표시해준다.</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 동궐도/gps표시</td>        <td>9.Unfair Advantage(특유장점)비영리앱대상. 필요하나 아무도 만들지 않는다</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 동궐관람객/학생</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법)쓰여지는정도</td>        <td>5.Channels(채널) 궁궐/역사/스터디/모임</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)개발비</td>        <td colspan=3>6.Revenue Streams(수익)인지도</td>    </tr></table>
+
 ## Lean Canvas-요가앱
 - 가이드앱
 - [설명](/doc/APP_yoga.md)
@@ -30,11 +36,6 @@
 - [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_earth)
 - 지구시계 수정
 
-## Lean Canvas-궁궐스탬프앱
-- 방문스탬프 창덕궁 궁세분화 창덕궁/후원/창경궁 필요
-- [설명](/doc/APP_DongggweldoMap.md)
-- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_changdeokgung)
-<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제)궁궐/다타고없다/여기가어딘지모른다</td>        <td>4.Solution(솔루션) map api/mobile web/gps 을 이용하여 동궐도위에 gps 표시해준다.</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 동궐도/gps표시</td>        <td>9.Unfair Advantage(특유장점)비영리앱대상. 필요하나 아무도 만들지 않는다</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 동궐관람객/학생</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법)쓰여지는정도</td>        <td>5.Channels(채널) 궁궐/역사/스터디/모임</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)개발비</td>        <td colspan=3>6.Revenue Streams(수익)인지도</td>    </tr></table>
 
 ## Lean Canvas-PTtimer
 - [설명](/doc/APP_pt_timer.md)
