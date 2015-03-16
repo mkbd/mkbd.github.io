@@ -85,5 +85,14 @@
 
 ```
 
+## 기타 흩어진 전가
+- 황학정 사직단 위쪽
+- 경희궁 전각 동국대 정각원
+- 창덕궁 신선원전 중앙고 주말 아무때가 갈 수 없다
+- 창덕궁 명정전 벽돌
+
+경희궁 방공호
+
+
 ##참고
 [Bubble Sort](https://sites.google.com/a/blocks123.net/blocks123/z-old-stuff/sorting-1)
