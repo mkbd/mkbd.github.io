@@ -10,3 +10,38 @@
 - 동작 이미지 필요한가? 동영상?
 
 
+# 순서
+- 3 time 옴
+- sun selizim 2분
+- lay in your back , strech , turn right, turn left
+- hold your knee, pull your body, 움크리기
+- stright shoudler level, hold your ankle, 뒤로 아치형태
+- 45 angle hand, foot 수평 버티기
+- top 슈드 sholder stand. 다리 위로 뻗쳐 버티기
+- slop 포즈 , 쟁기 자세.
+- ninty dgree 90도, 45도, 30도
+
+- 자세변경 back 
+- 코브라 포즈 
+- hlod your foot. hold you ankle. max 위로  또는 비행기
+- hand inside your body. left foot
+
+- 자세 변경 sitting
+- straight foot. 양손 발목 또는 양발 벌려, 오른쪽 , 왼쪽
+- 오른무릎세워 hand bak twist. 오른쪽, 왼쪽
+- stand your knee., 발목 세움, 위 뒤로로 구부리 또는 뒤로 드러누움
+- 양발 교촤 꽈리 , 앞으로 수구리
+
+- 자세변경 stand
+- 다리 좌우, 오른속 크로스 왼쪽 발못, 왼쪽 하늘. 시선 손뜻, 좌우 
+- 옆구리. 스트레이 핸드 위로. 좌우 
+- 강시 그대로 앉았다 일어나기 
+- 오른쪽 발 왼쪽 무픞 균형 유지, 좌우 
+- 오른쪽 손 뒷등 왼쪽 맞잡기, 좌우
+
+- 카팔바티 breathin excise
+- 3time ohmez 옴... 옴.. 옴..
+
+
+
+
