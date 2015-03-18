@@ -19,7 +19,7 @@ headers = {'Referer': 'http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?Go
 - 카톡을 정작 메시지api 는 지원 안하네요;
 - 트윗으로 알람을 보내야 할까 봅니다.
 
-# 어이만들고
+## 어이만들고
 - 체크
 - ok 홀딩 1분
 - 다시 체크
