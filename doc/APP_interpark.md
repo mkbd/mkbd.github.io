@@ -16,10 +16,10 @@ headers = {'Referer': 'http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?Go
 
 ## 알림받을꺼
 - 마플봇은 이제 못쓰나 봅니다. http://dna.daum.net/apis/mypeople/intro
-- 카톡을 정장 메시지api 는 지원 안하네요;
-- 트위으로 알람을 보내야 할까 봅니다.
+- 카톡을 정작 메시지api 는 지원 안하네요;
+- 트윗으로 알람을 보내야 할까 봅니다.
 
-# sudo
+# 어이만들고
 - 체크
 - ok 홀딩 1분
 - 다시 체크
