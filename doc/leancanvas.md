@@ -1,9 +1,9 @@
                  
 
-## Lean Canvas-예매앱
+## Lean Canvas-예매빈자리알림서비스
 - [설명](/doc/APP_interpark.md)
 - 예매 페이지 빈자리 알림
-- requset, parse, mypeople msg
+- requset, parse, 트윗
 
 ## Lean Canvas-궁궐스탬프앱
 - 방문스탬프 창덕궁 궁세분화 창덕궁/후원/창경궁 필요
