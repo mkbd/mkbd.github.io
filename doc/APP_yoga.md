@@ -15,6 +15,7 @@
 - sun selizim 2분
 - lay in your back , strech , turn right, turn left
 - hold your knee, pull your body, 움크리기
+- ㄱ 자 90도 좌우로
 - stright shoudler level, hold your ankle, 뒤로 아치형태
 - 45 angle hand, foot 수평 버티기
 - top 슈드 sholder stand. 다리 위로 뻗쳐 버티기
@@ -25,6 +26,7 @@
 - 코브라 포즈 
 - hlod your foot. hold you ankle. max 위로  또는 비행기
 - hand inside your body. left foot
+- 아치형태 구부리
 
 - 자세 변경 sitting
 - straight foot. 양손 발목 또는 양발 벌려, 오른쪽 , 왼쪽
