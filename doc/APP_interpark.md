@@ -78,3 +78,5 @@ while(True):
 
         time.sleep(60)
 ```
+
+![inter](/doc/img/inter_seat.jpg)
