@@ -14,7 +14,7 @@
 ## Lean Canvas-요가앱
 - 가이드앱
 - [설명](/doc/APP_yoga.md)
-- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_yoga)
+- [APP 다운로드](https://play.google.com/store/apps/details?id=appinventor.ai_doohwan_kwak.easy_Yoga)
 
 ## Lean Canvas-html5앱
 - html5 브라우저 모바일하드웨어제어앱

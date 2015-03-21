@@ -23,13 +23,15 @@
 - ninty dgree 90도, 45도, 30도
 
 - 자세변경 back 
-- 코브라 포즈 
+- 코브라 포즈
+- 보포즈브드라즘. 배활자세 y2_173초
 - hlod your foot. hold you ankle. max 위로  또는 비행기
-- hand inside your body. left foot
+- hand inside tie . chin on the ground left leg up  197
 - 아치형태 구부리
 
 - 자세 변경 sitting
-- straight foot. 양손 발목 또는 양발 벌려, 오른쪽 , 왼쪽
+- 퍼스트무트아즘 straight foot. 양손 발목 또는 양발 벌려, 오른쪽 , 왼쪽
+- 요므드라 양반다리앞구부리
 - 오른무릎세워 hand bak twist. 오른쪽, 왼쪽
 - stand your knee., 발목 세움, 위 뒤로로 구부리 또는 뒤로 드러누움
 - 양발 교촤 꽈리 , 앞으로 수구리
