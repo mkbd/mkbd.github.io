@@ -10,6 +10,11 @@
 - 동작 이미지 필요한가? 동영상?
 
 
+http://www.yogajournal.com/category/types/
+ 디게 많네.
+- Sun Salutations
+- Bow Pose
+
 # 순서
 - 3 time 옴
 - sun selizim 2분
