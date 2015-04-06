@@ -56,19 +56,20 @@ while(True):
                         print 'gogogo!! seat'
                         print(j['RemainCnt'])
 
-                        # twitter
-                        consumer_key="#consumer_key#"
-                        consumer_secret="#consumer_secret#"
 
-                        access_token="#access_token#"
-                        access_token_secret="#access_token_secret#"
+                        # twitter
+                        consumer_key="gU6YOM9ifBiMAVdQGbUgQUmxh"
+                        consumer_secret="rWqUW21UT93sT947ya8vt5CxufBOX3zvMTdcXc8NaKvhwd2oPL"
+
+                        access_token="2941456268-Chqj5qc597O8gS9MeWRdZMHktxbo5pvS1BNG8N3"
+                        access_token_secret="3DOr7pMUEGUycANx0QXQ3AyAPGppzBul2hDvueDTB2VWA"
 
                         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
                         auth.secure = True
                         auth.set_access_token(access_token, access_token_secret)
 
                         api = tweepy.API(auth)
-                        msg = time.strftime("%Y/%m/%d %H:%M:%S @kozazz ", time.localtime()) + i+ 'day gogogo!!  ' +j['RemainCnt']
+                        msg = time.strftime("%Y/%m/%d %H:%M:%S @kozazz @gony7650 @blue_supia ", time.localtime()) + i+ 'day gogogo!!  ' +j['RemainCnt']
 
                         api.update_status(status=msg)
                 else:
@@ -77,6 +78,7 @@ while(True):
                         print( '.')
 
         time.sleep(60)
+
 ```
 
 ![inter](/doc/img/inter_seat.jpg)
