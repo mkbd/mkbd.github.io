@@ -1,4 +1,13 @@
-                 
+
+
+
+## Lean Canvas-커버댄스 하드웨어
+- [설명](/doc/APP_coverdance.md)
+- 연습안무 가이드 ,풀버젼 영상. 3D ,각 관절 센싱장치
+
+## Lean Canvas-진격의함성 하드웨어
+- [설명](/doc/APP_shout.md)
+- 진격의 거인 머리. 입부분 고리연기
 
 ## Lean Canvas-예매빈자리알림서비스
 - [설명](/doc/APP_interpark.md)
