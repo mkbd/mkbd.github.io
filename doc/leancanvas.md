@@ -1,5 +1,15 @@
 
+## Lean Canvas-복식가게부
+- [복식 가게부](http://bs-j63.cloudsc.kr)
+- 후잉(http://whooing.com) 대체용
 
+## Lean Canvas-엔빵
+- 이체 없는 정산. [엔빵](http://nbbang-j63.cloudsc.kr )
+<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 정산시 주고 받음 이체가 많다.</td>        <td>4.Solution(솔루션) 주고/받고 셈셈해서 거래비용을 줄인다</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 거래없는 돈계산</td>        <td>9.Unfair Advantage(특유장점)정산 간소화</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 월렛/ n페이 사용자</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) 기록량</td>        <td>5.Channels(채널) 웹/ 앱</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)유지보수비</td>        <td colspan=3>6.Revenue Streams(수익)액티브 유저</td>    </tr></table>
+
+## Lean Canvas-큐어리스트앱 두번째
+- 큐라 [안드로이드 스토어](https://play.google.com/store/apps/details?id=com.hwans.kura)
+<table style="width:100%">    <tr>        <td rowspan=2>1.Problem(문제) 재밌는거/보고픈고/좋은거를 알아서 찾아주었으면좋겠다. 큐레이션. 날로 먹겠다.</td>        <td>4.Solution(솔루션) 시간갱신 티스토리우수블로그/네이버우수/유투브추천/구글뉴스키워드 검색</td>        <td rowspan=2 colspan=2>3.Unique Value Proposition(존재본질) 적당히 괜찮은 게시물</td>        <td>9.Unfair Advantage(특유장점)한곳에서 컨텐츠 소비</td>        <td rowspan=2>2.Customer Segments(타켓소비자) 10대후반-40대 초반 인터넷 게시물에 익숙한 그룹</td>    </tr>    <tr>        <td>8.Key Metrics(측정방법) google analytics, facebook 통계</td>        <td>5.Channels(채널) 안드로이드앱/페북페이지</td>    </tr>    <tr>        <td colspan=3>7.Cost Structure(비용)유지보수비 </td>        <td colspan=3>6.Revenue Streams(수익)앱배너</td>    </tr></table>
 
 ## Lean Canvas-커버댄스 하드웨어
 - [설명](/doc/APP_coverdance.md)
