@@ -1,4 +1,8 @@
 
+## 회의실 예약
+구글캘린더 응용
+캘린더 api로 제어
+
 ## wordpress costom
 - 설치형 블로그 wordpress
 - 디자인 스킨을 빌어서 써보자
