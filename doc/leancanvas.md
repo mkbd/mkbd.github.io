@@ -2,6 +2,7 @@
 ## wordpress costom
 - 설치형 블로그 wordpress
 - 디자인 스킨을 빌어서 써보자
+- wordpress ui + spring
 
 ## Lean Canvas-복식가게부
 - [복식 가게부](http://bs-j63.cloudsc.kr)
