@@ -10,7 +10,7 @@ nginx + tomcat
 구글캘린더 응용
 캘린더 api로 제어
 
-## wordpress costom
+## wordpress custom
 - 설치형 블로그 wordpress
 - 디자인 스킨을 빌어서 써보자
 - wordpress ui + spring
