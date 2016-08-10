@@ -101,6 +101,14 @@
         $( ".heart_prj" ).addClass( "heart_animate");
         $( ".btn_heart" ).addClass( "heart_animate");
         timeoutID = window.setTimeout(slowAlert, 1000);
+
+        var audio = {};
+        audio["walk"] = new Audio();
+        audio["walk"].src = "http://mkbd.github.io/doc/kk.ogg"
+        audio["walk"].addEventListener('load', function () {
+            audio["walk"].play();
+        });
+
     })
 
     function slowAlert() {
