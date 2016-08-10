@@ -1,4 +1,5 @@
-<html><head>
+<html>
+<head>
     <title>♡</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -9,47 +10,157 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald">
     <link rel="stylesheet" href="http://hilios.github.io/jQuery.countdown/css/syntax.css">
     <link rel="stylesheet" href="http://hilios.github.io/jQuery.countdown/css/main.css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script>
+    <script src="//code.jquery.com/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js"></script>
     <script src="//cdn.rawgit.com/hilios/jQuery.countdown/2.1.0/dist/jquery.countdown.min.js"></script>
+
+    <script src="https://cdn.firebase.com/js/client/2.2.1/firebase.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://sandbox-tutorial.firebaseapp.com/resources/css/example.css">
+    <link rel="stylesheet" type="text/css" href="//s1.daumcdn.net/svc/attach/U0301/cssjs/storyfunding_view/0f17c229dce0993061c5cc68a7ccd16b6f0e28cb/css/m/h.css" >
+    <link rel="stylesheet" type="text/css" href="//s1.daumcdn.net/svc/attach/U0301/cssjs/storyfunding_view/0f17c229dce0993061c5cc68a7ccd16b6f0e28cb/css/m/media.css" >
+    <link rel="stylesheet" type="text/css" href="//s1.daumcdn.net/svc/attach/U0301/cssjs/storyfunding_view/0f17c229dce0993061c5cc68a7ccd16b6f0e28cb/css/m/heart.css" >
+
+
 <body>
 
 <main>
 
+    <div class="heart_prj"> <!-- 애니메이션이 발생하는 순간 heart_animate 클래스 추가 -->
+        <span class="ico_aniheart2"></span>
+    </div>
 
     <div class="container">
+
+        <div class="heartop_bar">
+            <div class="inner_bar">
+                <div class="status_heart status_clear status_ing"><!-- 하트달성시 status_clear 클래스 추가  -->
+                    <em class="screen_out">현재 하트수</em>
+                    <button type="button" class="btn_heart" >
+                        <span class="ico_aniheart">하트주기</span>
+                    </button>
+                </div>
+            </div>
+        </div>
 
 
         <div class="pure-g-r">
 
-            <div class="examples pure-u-3-5
-        ">
+            <div class="examples pure-u-1">
+
                 <article>
-
-
                     <div class="example-base">
                         ♡ wedding day ♡ 2016 11.20 14:30
                         <span id="clock">14 days 23:57:49</span>
+                        <img src="map.png">
                     </div>
-
                     <script type="text/javascript">
                         // 15 days from now!
                         var date = '2016/11/20';
-                        $('#clock').countdown(date, function(event) {
+                        $('#clock').countdown(date, function (event) {
                             $(this).html(event.strftime('%D days %H:%M:%S'));
                         });
                     </script>
 
-
                 </article>
+
             </div>
-
-
-
         </div>
     </div>
 
+    <!-- CHAT MARKUP -->
+    <div class="example-chat l-demo-container">
+        <header>♡</header>
+
+        <div class='example-chat-toolbar'>
+            <label for="nameInput">닉네임:</label>
+            <input type='text' id='nameInput' placeholder='닉네임을 적어주세요...'>
+        </div>
+
+        <ul id='example-messages' class="example-chat-messages"></ul>
+
+        <footer>
+            <input type='text' id='messageInput'  placeholder='글을 남겨봅니다...'>
+        </footer>
+
+    </div>
+
+
 </main>
 
-</body></html>
+
+
+
+<!-- CHAT JAVACRIPT -->
+<script>
+
+    jQuery(".heart_prj").offset({ top: 50});
+
+    $( ".btn_heart" ).on( "click", function() {
+        $( ".heart_prj" ).addClass( "heart_animate");
+        $( ".btn_heart" ).addClass( "heart_animate");
+        timeoutID = window.setTimeout(slowAlert, 1000);
+    })
+
+    function slowAlert() {
+        $( ".heart_prj" ).removeClass( "heart_animate");
+        $( ".btn_heart" ).removeClass( "heart_animate");
+    }
+
+
+
+    Array.prototype.random = function () {
+        return this[Math.floor((Math.random()*this.length))];
+    }
+
+    // CREATE A REFERENCE TO FIREBASE
+    var messagesRef = new Firebase('https://kakong.firebaseio.com/');
+
+    // REGISTER DOM ELEMENTS
+    var messageField = $('#messageInput');
+    var nameField = $('#nameInput');
+    var messageList = $('#example-messages');
+    var nickNameList = ["자유공원","월미도","민어","신포시장","애관극장","청실홍실","차이나타운","사리원","장터삼겹살","삼치구이","신신분식","톨레도","스시사쿠","물고기","미분당","기꾸스시","자코비버거"];
+
+    // LISTEN FOR KEYPRESS EVENT
+    messageField.keypress(function (e) {
+        if (e.keyCode == 13) {
+            //FIELD VALUES
+            var username = nameField.val();
+            var message = messageField.val();
+
+            if(username == ""){
+                username = nickNameList.random();
+                nameField.val(username);
+            }
+
+            //SAVE DATA TO FIREBASE AND EMPTY FIELD
+            messagesRef.push({name:username, text:message});
+            messageField.val('');
+        }
+    });
+
+    // Add a callback that is triggered for each chat message.
+    messagesRef.limitToLast(50).on('child_added', function (snapshot) {
+        //GET DATA
+        var data = snapshot.val();
+        var username = data.name || "무명씨";
+        var message = data.text;
+
+        //CREATE ELEMENTS MESSAGE & SANITIZE TEXT
+        var messageElement = $("<li>");
+        var nameElement = $("<strong class='example-chat-username'></strong>")
+        nameElement.text(username);
+        messageElement.text(message).prepend(nameElement);
+
+        //ADD MESSAGE
+        messageList.append(messageElement)
+
+        //SCROLL TO BOTTOM OF MESSAGE LIST
+        messageList[0].scrollTop = messageList[0].scrollHeight;
+    });
+</script>
+<!--chat end-->
+</body>
+</html>
